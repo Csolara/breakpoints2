@@ -1,0 +1,32 @@
+@charset "UTF-8";
+ 
+.margen{
+	margin: 10px;
+}
+.verde1{	
+	background: limegreen;
+	color: limegreen;
+}
+.verde2{	
+	background: limegreen;
+	color: limegreen;
+}
+.rojo{
+	background: red;
+	color: red;
+}
+.rosa{
+	background: hotpink;
+	color: hotpink;
+}
+.blanco{
+	background: white;
+}
+.naranja{
+	background:orange;
+	color: orange;
+}
+.azul{
+	background: blue;
+	color: blue;
+}
